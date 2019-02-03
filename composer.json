@@ -1,5 +1,6 @@
 {
-    "require-dev": {
-        "codeception/codeception": "^2.5"
-    }
+	"require-dev": {
+		"codeception/codeception": "2.3.9",
+		"flow/jsonpath": "^0.4.0"
+	}
 }

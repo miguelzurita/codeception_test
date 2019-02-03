@@ -1,0 +1,7 @@
+actor: ApiTester
+modules:
+    enabled:
+        - REST:
+            url: https://postman-echo.com/
+            depends: PhpBrowser
+            part: Json
